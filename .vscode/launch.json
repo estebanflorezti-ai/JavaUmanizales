@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "co.edu.umanizales.ObjetosReferencia.model.ColorExamples",
+            "projectName": "programacion1",
+            "console": "internalConsole",
+            "args": ""
+        }
+    ]
+}
